@@ -18,3 +18,10 @@
 @import url('./footer.css');
 @import url('./timer.css');
 @import url('./snackbar.css');
+
+.main-container{
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  font-size: large;
+}
